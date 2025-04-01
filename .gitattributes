@@ -1,0 +1,15 @@
+
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+*.gradle linguist-vendored
+*.pbxproj linguist-vendored
+*.xcworkspacedata linguist-vendored
+*.xcsettings linguist-vendored
+*.xcconfig linguist-vendored
+*.plist linguist-vendored
+
+lib/** linguist-language=Dart
